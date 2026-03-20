@@ -19,4 +19,4 @@
 // Write in English or Thai. Do not skip this step.
 //
 // Your thinking:
-//
+// อันนี้ไม่ไหวครับ ตึงเกิน T_T

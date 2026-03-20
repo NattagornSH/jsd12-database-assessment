@@ -19,4 +19,4 @@
 // Write in English or Thai. Do not skip this step.
 //
 // Your thinking:
-//
+// Postgresql ผมเก็บหมด แต่ mongo นี่ไม่ไหวครับ T_T 
